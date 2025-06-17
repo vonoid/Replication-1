@@ -8,7 +8,7 @@
 
 Ответить в свободной форме.
 
-## Ответ 1
+#### Ответ 1
 
 # Master-Slave
 Один мастер (запись), один/несколько слейвов (чтение).
@@ -34,7 +34,6 @@
 Статус Slave
 
 ![2](https://github.com/vonoid/Replication-1/blob/9ec33fa8680e113cc7d4856f933ecbd30dcd32d2/img/2.jpg)
-
 ![3](https://github.com/vonoid/Replication-1/blob/9ec33fa8680e113cc7d4856f933ecbd30dcd32d2/img/3.jpg)
 
 Праметры файла my.cnf
